@@ -35,6 +35,21 @@
 
 
 
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <div class="p-3 mb-3 bg-light">
+              <h2 class="mb-4">Selamat Datang di Tempat Penyewaan Kamera</h2>
+              <p>Kami adalah rumah bagi para penggiat kreasi visual! Kami hadir untuk menyediakan kamera berkualitas tinggi untuk disewakan dan menjadi mitra dalam perjalananmu menuju pencapaian visual terbaik.</p>
+              <p>Dari pemula hingga profesional, kami hadir untuk menyokong setiap langkahmu dalam mengabadikan momen tak terlupakan. Berani bermimpi besar dengan visual yang berkualitas tinggi? Kami punya solusi penyewaan kamera yang tepat untukmu.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
 
 
 
