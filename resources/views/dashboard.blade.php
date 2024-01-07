@@ -10,8 +10,9 @@
             <li class="breadcrumb-item active">Dashboard</li>
         </ol>
         <div class="card mb-4">
-            <div class="card-body">
-                Dashboard
+            <div class="card-body" style="font-size: 30px">
+                <marquee behavior="" direction="">
+                   SELAMAT DATANG ADMIN</marquee>
             </div>
         </div>
     </div>
