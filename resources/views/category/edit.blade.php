@@ -1,4 +1,5 @@
-@extends('category.layout')
+{{-- @extends('category.layout') --}}
+@extends('layout.be.template')
 
 @section('content')
     <div class="row">

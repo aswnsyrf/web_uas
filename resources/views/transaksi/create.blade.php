@@ -1,10 +1,11 @@
-@extends('transaksi.layout')
+{{-- @extends('transaksi.layout') --}}
+@extends('layout.be.template')
 
 @section('content')
 <div class="row">
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-            <h2>Add New Product</h2>
+            <h2>Add New Transaksi</h2>
         </div>
         {{-- <div class="pull-right">
             <a class="btn btn-primary" href="{{ route('transaksi.index') }}"> Back</a>

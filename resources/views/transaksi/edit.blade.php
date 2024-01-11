@@ -1,4 +1,5 @@
-@extends('transaksi.layout')
+{{-- @extends('transaksi.layout') --}}
+@extends('layout.be.template')
 
 @section('content')
     <div class="row">
