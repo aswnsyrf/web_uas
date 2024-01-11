@@ -6,9 +6,9 @@
         <div class="pull-left">
             <h2>Add New Product</h2>
         </div>
-        <div class="pull-right">
+        {{-- <div class="pull-right">
             <a class="btn btn-primary" href="{{ route('products.index') }}"> Back</a>
-        </div>
+        </div> --}}
     </div>
 </div>
 
